@@ -21,7 +21,7 @@ En   [xampp](https://es.wikipedia.org/wiki/XAMPP) selecciona la ruta de inicio c
 
 Si todo ha salido correctamente deberias tener esto:
 
-![Ejemplo](https://ibb.co/nCHoX6)
+![Ejemplo](https://imgur.com/a/xWC3l)
 
 En el caso que no funcione contacta conmigo.
 
@@ -35,21 +35,25 @@ La mayoria de las rutas solo estan permitidas para los usuarios Logueados.
 
 Si queremeos ver toda la informacion, pincharemos en el nombre del artista y os saldra esta ventana:
 
-![Ejemplo](https://ibb.co/cOjhQR)
+![Ejemplo](https://imgur.com/a/tBMah)
 
 Aqui es donde podremos ver toda la informacion he incluso dejar un comentario.
 
 Si en el caso queremos añadir algo nuevo a la lista pulsaremos en añadir song donde saldra todo el formulario del cual tendremos que rellenar las parte requeridas. Ejemplo:
 
-![Ejemplo](https://ibb.co/ho8ns6)
+![Ejemplo](https://imgur.com/a/Q5kaO)
 
 Tambien podremos editar y eliminar cada una de las canciones con los botonoes de editar o borrar:
 
-![Ejemplo](https://ibb.co/kzGMkR)
+![Ejemplo](https://imgur.com/a/OFX9k)
 
 En caso de borrar os sadra una venta que os dira si estais seguro de borrar:
 
-![Ejemplo](https://ibb.co/mSTTX6)
+![Ejemplo](https://imgur.com/a/9hz23)
 
-y en caso de editar os saldra el mismo formulario que el añadir.
+y en caso de editar os saldra el mismo formulario que el añadir, donde podreis editar cada información que teniais antes:
+
+![Ejemplo](https://imgur.com/a/Q5Ltj)
+
+### Gracias.
 
