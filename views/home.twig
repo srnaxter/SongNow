@@ -10,11 +10,11 @@
     <table class="table table-striped">
         <thead>
         <tr>
-            <th>Logo</th>
-            <th>Name son</th>
+            <th>Cover</th>
+            <th>Nombre</th>
             <th>Genero</th>
             <th>Recomiendas</th>
-            <th>Youtube</th>
+            <th>Album</th>
             <th>Editar</th>
             <th>Borrar</th>
         </tr>
@@ -24,7 +24,7 @@
         <tr>
             <td><a href="listmusic/{{ listmusic.id }}"><img src="{{ listmusic.image }}" alt="Logo de {{ listmusic.name }}" class="logo"></a></td>
             <td><a href="listmusic/{{ listmusic.id }}">{{ listmusic.name }}</a></td>
-            <td>{{ listmusic.anio }}</td>
+            <td>{{ listmusic.genero }}</td>
             <td>{{ listmusic.recomiendas }}</td>
             <td>{{ listmusic.album }}</td>
             <td>
