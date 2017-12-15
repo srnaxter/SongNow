@@ -14,3 +14,4 @@ $ mysql -u username -p < createdb.sql
 ```
 
 donde _username_ y _password_ son las credenciales de acceso a tu servidor MySQL.
+

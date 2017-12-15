@@ -239,7 +239,7 @@ class ListmusicController extends BaseController {
     public function getIndex($id = null){
         if( is_null($id) ){
             $webInfo = [
-                'title' => 'Página de Inicio - listmusicADA'
+                'title' => 'Página de Inicio - SongNow'
             ];
 
             $listmusic = listmusic::query()->orderBy('id','desc')->get();
@@ -254,7 +254,7 @@ class ListmusicController extends BaseController {
             // Recuperar datos
 
             $webInfo = [
-                'title' => 'Página de listmusic - listmusicADA'
+                'title' => 'Página de listmusic - SongNow'
             ];
 
             $listmusic = listmusic::find($id);
@@ -300,13 +300,13 @@ class ListmusicController extends BaseController {
         }
 
         $webInfo = [
-            'title' => 'Página de listmusic - listmusicADA'
+            'title' => 'Página de listmusic - SongNow'
         ];
 
         $listmusic = listmusic::find($id);
         $comments = Comment::all();
         $webInfo = [
-            'title' => 'Página de listmusic - listmusicADA'
+            'title' => 'Página de listmusic - SongNow'
         ];
 
         if( !$listmusic ){
